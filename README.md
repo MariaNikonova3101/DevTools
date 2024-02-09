@@ -1,4 +1,4 @@
-Devtools HW
+Devtools HW The extension uses [IS HERE](https://drive.google.com/file/d/1CpSVmSoTbZnBwiu4r1ktayxNCwqmyJ0N/view?usp=sharing)
 
  1. Открыть сайт http://itcareer.pythonanywhere.com/
  1. Открыть Chrome DevTools
